@@ -7636,7 +7636,8 @@ h1, h2, h3, h4, h5,
       color: #ee76ad; }
 
 .ftco-section-featured {
-  margin-top: 150px;
+  margin-top: 0;
+  padding-top: 15px;
   padding-bottom: 7em; }
   .ftco-section-featured .container {
     z-index: 2;
