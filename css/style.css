@@ -60,7 +60,7 @@ body {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #1F0D28;
+  color: #fff;
   text-align: left;
   background-color: #1F0D28; }
 
@@ -7273,7 +7273,7 @@ body {
   font-size: 16px;
   line-height: 1.8;
   font-weight: 300;
-  color: #8b8b92; }
+  color: #fff; }
   body.menu-show {
     overflow: hidden;
     position: fixed;
