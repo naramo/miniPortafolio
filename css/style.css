@@ -262,7 +262,7 @@ h1, h2, h3, h4, h5,
   .ul-check.success li:before {
     color: #8bc34a; }
   .ul-check.primary li:before {
-    color: #ff5733; }
+    color: #F5B430; }
 
 .program h2 {
   font-size: 1.5rem; }
@@ -314,10 +314,10 @@ font-family: 'Montserrat', sans-serif;}}
       position: relative; }
       .site-navbar .site-navigation .site-menu .active > a:after {
         content: "";
-        background: -webkit-gradient(linear, left top, right top, from(#c70039), color-stop(70%, #ff5733));
-        background: -webkit-linear-gradient(left, #c70039, #ff5733 70%);
-        background: -o-linear-gradient(left, #c70039, #ff5733 70%);
-        background: linear-gradient(to right, #c70039, #ff5733 70%);
+        background: -webkit-gradient(linear, left top, right top, from(#9f4754), color-stop(70%, #f5b458));
+        background: -webkit-linear-gradient(left, #9f4754, #f5b458 70%);
+        background: -o-linear-gradient(left, #9f4754, #f5b458 70%);
+        background: linear-gradient(to right, #9f4754, #bc5d56, #d57756, #e89456, #f5b458);
         width: 100%;
         height: 2px;
         position: absolute;
@@ -339,10 +339,10 @@ font-family: 'Montserrat', sans-serif;}}
         position: relative; }
         .site-navbar .site-navigation .site-menu > li > a:after {
           content: "";
-          background: -webkit-gradient(linear, left top, right top, from(#c70039), color-stop(70%, #ff5733));
-          background: -webkit-linear-gradient(left, #c70039, #ff5733 70%);
-          background: -o-linear-gradient(left, #c70039, #ff5733 70%);
-          background: linear-gradient(to right, #c70039, #ff5733 70%);
+          background: -webkit-gradient(linear, left top, right top, from(#9f4754), color-stop(70%, #f5b458));
+          background: -webkit-linear-gradient(left, #9f4754, #f5b458 70%);
+          background: -o-linear-gradient(left, #9f4754, #f5b458 70%);
+          background: linear-gradient(to right, #9f4754, #bc5d56, #d57756, #e89456, #f5b458);
           width: 0;
           height: 2px;
           position: absolute;
@@ -609,10 +609,10 @@ font-family: 'Montserrat', sans-serif;}}
     height: calc(50vh - 95px); }
   .site-hero h1 {
     font-size: 1rem;
-    background: -webkit-gradient(linear, left top, right top, from(#c70039), color-stop(70%, #ff5733));
-    background: -webkit-linear-gradient(left, #c70039, #ff5733 70%);
-    background: -o-linear-gradient(left, #c70039, #ff5733 70%);
-    background: linear-gradient(to right, #f5b430, #ffb18b, #ffc5d6, #ffe5ff, #ffffff);
+    background: -webkit-gradient(linear, left top, right top, from(#9f4754), color-stop(70%, #f5b458));
+    background: -webkit-linear-gradient(left, #9f4754, #f5b458 70%);
+    background: -o-linear-gradient(left, #9f4754, #f5b458 70%);
+    background: linear-gradient(to right, #9f4754, #bc5d56, #d57756, #e89456, #f5b458);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent; }
     @media (min-width: 992px) {
@@ -636,10 +636,10 @@ font-family: 'Montserrat', sans-serif;}}
     position: relative;
     z-index: 2; }
   .btn-custom:before {
-    background: -webkit-gradient(linear, left top, right top, from(#c70039), color-stop(70%, #ff5733));
-    background: -webkit-linear-gradient(left, #c70039, #ff5733 70%);
-    background: -o-linear-gradient(left, #c70039, #ff5733 70%);
-    background: linear-gradient(to right, #c70039, #ff5733 70%);
+    background: -webkit-gradient(linear, left top, right top, from(#9f4754), color-stop(70%, #f5b458));
+    background: -webkit-linear-gradient(left, #9f4754, #f5b458 70%);
+    background: -o-linear-gradient(left, #9f4754, #f5b458 70%);
+    background: linear-gradient(to right, #9f4754, #bc5d56, #d57756, #e89456, #f5b458);
     content: "";
     position: absolute;
     left: 0;
