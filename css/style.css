@@ -31,7 +31,7 @@ a {
 .viewmore{
     color: #fff !important;
 }.viewmore:hover{
-    color: linear-gradient(to right, #9f4754, #bc5d56, #d57756, #e89456, #f5b458); !important;
+    color: #F5B430;
 }
 h1, h2, h3, h4, h5,
 .h1, .h2, .h3, .h4, .h5 {
