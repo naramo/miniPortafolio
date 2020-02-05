@@ -31,10 +31,10 @@ a {
 .viewmore{
     color: #fff !important;
 }.viewmore:hover{
-    background: -webkit-gradient(linear, left top, right top, from(#9f4754), color-stop(70%, #f5b458));
-    background: -webkit-linear-gradient(left, #9f4754, #f5b458 70%);
-    background: -o-linear-gradient(left, #9f4754, #f5b458 70%);
-    background: linear-gradient(to right, #9f4754, #bc5d56, #d57756, #e89456, #f5b458);
+    color: -webkit-gradient(linear, left top, right top, from(#9f4754), color-stop(70%, #f5b458));
+    color: -webkit-linear-gradient(left, #9f4754, #f5b458 70%);
+    color: -o-linear-gradient(left, #9f4754, #f5b458 70%);
+    color: linear-gradient(to right, #9f4754, #bc5d56, #d57756, #e89456, #f5b458);
 }
 h1, h2, h3, h4, h5,
 .h1, .h2, .h3, .h4, .h5 {
